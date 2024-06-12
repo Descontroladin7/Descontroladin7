@@ -1,16 +1,19 @@
-## Hi there 👋
+## Bem Vindo Ao Meu Perfil :D 💙
 
-<!--
-**Descontroladin7/Descontroladin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Luiz Gustavo
 
-Here are some ideas to get you started:
+- Aluno Alura 🗺️
+- Estudando Programação 🤖
+- Utilizando GitHub para me organizar meus "estudos" e também para compartilhar Projetos...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Caso queira entrar em contato comigo 📧
+
+- Ervinhadaboa@hotmail.com
+
+- ### Obrigado 💟 :D
+
+- Redes Sociais:
+-  Instagram 🇧🇷
+-  ### o_tal_do_gustavozz
+
+  
